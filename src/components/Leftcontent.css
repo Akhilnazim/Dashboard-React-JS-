@@ -1,0 +1,36 @@
+.CCL {
+    height: 100%;
+    margin : 15px;
+  }
+  .CCL-item {
+    display: flow-root;
+    height: auto;
+    margin-top: 3px;
+  }
+  .head {
+    margin-bottom: 10%;
+  }
+  .head .CCL-right {
+    text-align: right;
+  }
+  
+  .divider {
+    margin : 16px 0px 16px 0px;
+  }
+  .CCL-left {
+    /* margin-left: 8px; */
+    float: left;
+    width:50%;
+    text-align : left;
+  }
+  .CCL-left span {
+    color: grey;
+  }
+  .CCL-right {
+    /* margin-right: 8px; */
+    float: right;
+    width:40%;
+  }
+  .ant-progress-bg {
+    height: 5px !important;
+  }

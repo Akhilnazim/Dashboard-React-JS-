@@ -1,0 +1,18 @@
+.main{
+    margin:0;
+    padding:30px;
+}
+.sidebar {
+    margin:20px;
+    text-align:center;
+}
+.logout {
+    margin:0;
+    float: left;
+}
+/* .avatar1 {
+    display: flex;
+}
+.avatar2 {
+    display: flex;
+} */

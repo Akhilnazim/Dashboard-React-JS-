@@ -15,14 +15,14 @@ function Item() {
   return (
     <Layout>
       <Sider
-        breakpoint="lg"
-        collapsedWidth="0"
-        onBreakpoint={(broken) => {
-          console.log(broken);
-        }}
-        onCollapse={(collapsed, type) => {
-          console.log(collapsed, type);
-        }}
+        // breakpoint="lg"
+        // collapsedWidth="0"
+        // onBreakpoint={(broken) => {
+        //   console.log(broken);
+        // }}
+        // onCollapse={(collapsed, type) => {
+        //   console.log(collapsed, type);
+        // }}
       >
         <div className="logo" />
         <Menu mode="inline" defaultSelectedKeys={["1"]}>
